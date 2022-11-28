@@ -1,2 +1,2 @@
 # WalkIt
-A mobile app that tracks where one walks
+A mobile android app that tracks where one walks
